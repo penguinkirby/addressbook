@@ -58,6 +58,17 @@ public class Contact {
 	AddressBook book = new Addressbook();
 	menu(); calls the menu method
 	int choice = scan.nextInt;
+	while choice != 5{
+	if(choice == 1) 
+	public static void menu(){
+	System.out.println("Enter the number.")
+	System.out.println("1. Add Contact");
+	System.out.println("2. Delete Contact");
+	System.out.println("3. Print # of Friends");
+	System.out.println("4. Print Info");
+	System.out.println("5. Quit");
+	
 	*/
+	
 
 }
