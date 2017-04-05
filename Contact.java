@@ -60,6 +60,9 @@ public class Contact {
 	int choice = scan.nextInt;
 	while choice != 5{
 	if(choice == 1) 
+	{
+	}
+	}
 	public static void menu(){
 	System.out.println("Enter the number.")
 	System.out.println("1. Add Contact");
