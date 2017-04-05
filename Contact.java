@@ -53,5 +53,11 @@ public class Contact {
     public int getBdayDay() {
 		return bday%100;
     }
+	/*
+	Scanner scan = new Scanner(System.in);
+	AddressBook book = new Addressbook();
+	menu(); calls the menu method
+	int choice = scan.nextInt;
+	*/
 
 }
